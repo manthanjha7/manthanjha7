@@ -22,7 +22,7 @@ I also co-founded **Swaps**, a college merchandise brand that generated INR 1L+ 
 
 **[COOX Outskirt Geo-Blocking Analysis](https://github.com/manthanjha7/coox-outskirt-geoblocking-analysis)** -- Analyzed 546 non-serviceable bookings across 21 cities using DBSCAN clustering and reverse geocoding to build a tiered geo-blocking strategy, projecting INR 18.1L in annual savings. Built for Tech GC 2026 at IIT Roorkee.
 
-**[Finrep Meeting Intelligence](https://github.com/manthanjha7/Google-meeting)** -- Chrome extension that auto-records Google Meet sessions, transcribes them via Sarvam STT (optimized for Hindi-English), summarizes with Claude AI, and delivers structured notes to Slack.
+**[Finrep Meeting Intelligence](https://github.com/manthanjha7/finrep-meeting-intelligence)** -- Chrome extension that auto-records Google Meet sessions, transcribes them via Sarvam STT (optimized for Hindi-English), summarizes with Claude AI, and delivers structured notes to Slack.
 
 ---
 
