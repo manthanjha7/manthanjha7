@@ -1,0 +1,40 @@
+# Competitive Intelligence Monitor — configuration
+#
+# Copy this file to `config.yaml` and edit it for the competitors you track.
+# `config.yaml` is gitignored so your watchlist stays private.
+
+# The Claude model used to summarize and score changes.
+# Opus 4.8 is the most capable; switch to claude-haiku-4-5 for a cheaper,
+# higher-frequency run if you are watching many sources.
+model: claude-opus-4-8
+
+# How "your product" is positioned. The analyzer uses this to judge whether
+# a competitor change is a threat, an opportunity, or noise FOR YOU specifically.
+my_product:
+  name: Finrep
+  one_liner: AI-powered financial reporting platform for the CFO office.
+  differentiators:
+    - Hindi-English meeting intelligence
+    - Automated board-deck and MIS generation
+    - Tight Slack + Google Workspace integration
+
+# Competitors to monitor. Each source is fetched, compared against the last
+# saved snapshot, and only *changed* sources are sent to Claude.
+competitors:
+  - name: Acme Analytics
+    sources:
+      - label: Changelog
+        url: https://example.com/changelog
+        type: changelog        # changelog | pricing | blog | docs | homepage
+      - label: Pricing
+        url: https://example.com/pricing
+        type: pricing
+  - name: Beacon Reporting
+    sources:
+      - label: Blog
+        url: https://example.org/blog
+        type: blog
+
+# Optional: post the digest to a Slack incoming webhook.
+# Leave blank to skip. Can also be set via the SLACK_WEBHOOK_URL env var.
+slack_webhook_url: ""

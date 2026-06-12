@@ -1,0 +1,13 @@
+# Private watchlist and runtime artifacts
+config.yaml
+data/snapshots/
+digests/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

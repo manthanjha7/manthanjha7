@@ -1,0 +1,1 @@
+"""Competitive Intelligence Monitor package."""
