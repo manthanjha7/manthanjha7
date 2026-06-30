@@ -19,7 +19,7 @@ I'm a Product Manager working where fintech meets AI. I do my best work in regul
 
 ## 💼 What I'm doing now
 
-**Product Manager at [Finrep.ai](https://finrep.ai)**, an AI platform for the CFO office. I helped **scale it 10x in 9 months**, owning activation, retention, and feature scoping. A few things I shipped:
+**Product Manager at [Finrep.ai](https://finrep.ai)**, an Accel-backed AI platform for the CFO office. I helped **scale it 10x in 9 months**, owning activation, retention, and feature scoping. A few things I shipped:
 
 - Built the analytics stack (Mixpanel and Metabase) from scratch across 7 product surfaces
 - Redesigned our AI copilot around source-first trust, so citations lead the answer and verification is the default
