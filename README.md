@@ -19,11 +19,11 @@ I'm a Product Manager working where fintech meets AI. I do my best work in regul
 
 ## 💼 What I'm doing now
 
-**Product Manager at [Finrep.ai](https://finrep.ai)**, an Accel-backed AI platform for the CFO office. I helped take it from **$0 to $100K ARR in 9 months**, owning activation, retention, and feature scoping. A few things I shipped:
+**Product Manager at [Finrep.ai](https://finrep.ai)**, an AI platform for the CFO office. I helped **scale it 10x in 9 months**, owning activation, retention, and feature scoping. A few things I shipped:
 
 - Built the analytics stack (Mixpanel and Metabase) from scratch across 7 product surfaces
-- Redesigned our AI copilot around source-first trust: **5x citation open-rate, 42% faster time-to-answer**
-- Shipped a **35,000-standard accounting-codification library** end-to-end that let a key customer drop a paid incumbent
+- Redesigned our AI copilot around source-first trust, so citations lead the answer and verification is the default
+- Shipped a **35,000-standard accounting-codification library** end-to-end that consolidated a fragmented, multi-tool research workflow
 
 Before Finrep I was in the Founder's Office at **Tryo** (onboarded 8+ D2C brands, cut CAC by about 40%), co-founded **Swaps** (₹1L+ revenue in 6 months), and I lead the Zero-to-One vertical at **IIT Roorkee's E-Cell**.
 
